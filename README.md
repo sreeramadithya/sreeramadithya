@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi there, I'm Sreeramadithya 👋
 
-<!--
-**sreeramadithya/sreeramadithya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate Student**  
+Instrumentation and Control Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm passionate in electronics and embedded systems, especially using Arduino and NodeMCU. As a student in Instrumentation and Control Engineering, I love exploring how code interacts with the physical world and discovering new ways to automate and control devices.
+
+---
+
+## Skills
+
+- **Programming Languages:** Python (Basic), C (Basic), C++ (Basic), Java (Basic)
+- **Embedded & IoT:** Arduino, NodeMCU, Bluetooth (HC-05)
+- **Interests:** Internet of Things (IoT), Automation, Sensors, Communication systems
+
+---
+
+## Current Learning
+
+I'm actively learning more about IoT, microcontrollers, and how software can make hardware smarter.
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sreeramadithya/)
+
+---
+
+> “The Darkest Nights Show The Brightest Stars, And I Truly Emphasize That"
