@@ -29,7 +29,7 @@ I'm actively learning more about IoT, microcontrollers, and how software can mak
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sreeramadithya/)
-[![Instagram Badge](https://img.shields.io/badge/-@4that.sassy_sa-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/4that.sassy_sa/)](https://www.instagram.com/4that.sassy_sa/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/4that.sassy_sa/)](https://www.instagram.com/4that.sassy_sa/)
 
 ---
 
