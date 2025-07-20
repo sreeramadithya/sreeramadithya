@@ -1,6 +1,6 @@
-Hi there, I'm Sreeramadithya 👋
+Hi there, I'm Sreeramadithya 
 
-🎓 **Undergraduate Student**  
+**Undergraduate Student**  
 Instrumentation and Control Engineering
 
 ---
@@ -31,4 +31,4 @@ I'm actively learning more about IoT, microcontrollers, and how software can mak
 
 ---
 
-> “The Darkest Nights Show The Brightest Stars, And I Truly Emphasize That"
+> “The Darkest Nights Show The Brightest Stars"
